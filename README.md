@@ -1,3 +1,5 @@
+**Disclaimer:** This fork was made just to add small changes and will not have a purpose to add a pull-request or to add updates to this project. I needed this package for a project and some updates in this repository kept giving me errors. The changes I've made cleared those errors for me and I'll be using it like this for my work.
+
 # Table of Contents
 - [Important](#important)
 - [Kinova-ROS](#kinova-ros)
